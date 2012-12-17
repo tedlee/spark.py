@@ -5,7 +5,7 @@ See? Here's a graph of your productivity gains after using spark: ▁▂▃▅�
 
 ## install
 
-spark.py is a python implementation of @holman's [spark][https://github.com/holman/spark], so drop it somewhere and make sure it's added to your `$PATH`.
+spark.py is a python implementation of @holman's [spark](https://github.com/holman/spark]), so drop it somewhere and make sure it's added to your `$PATH`.
 
 
 ## usage
