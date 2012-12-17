@@ -5,13 +5,8 @@ See? Here's a graph of your productivity gains after using spark: ▁▂▃▅�
 
 ## install
 
-spark is a [shell script][bin], so drop it somewhere and make sure it's added
-to your `$PATH`. It's helpful if you have a super-neat collection of dotfiles,
-[like mine][dotfiles].
+spark.py is a python implementation of @holman's [spark][https://github.com/holman/spark], so drop it somewhere and make sure it's added to your `$PATH`.
 
-If you're on OS X, spark is also on [Homebrew][brew]:
-
-    brew install spark
 
 ## usage
 
@@ -56,12 +51,6 @@ Code visualization. The number of characters of `spark` itself, by line, ignorin
   ▁▁▁▁▅▁▇▁▁▅▁▁▁▁▁▂▂▁▃▃▁▁▃▁▃▁▂▁▁▂▂▅▂▃▂▃▃▁▆▃▃▃▁▇▁▁▂▂▂▇▅▁▂▂▁▇▁▃▁▇▁▂▁▇▁▁▆▂▁▇▁▂▁▁▂▅▁▂▁▆▇▇▂▁▂▁▁▁▂▂▁▅▁▂▁▁▃▁▃▁▁▁▃▂▂▂▁▁▅▂▁▁▁▁▂▂▁▁▁▂▂
 ```
 
-Since it's just a shell script, you could pop it in your prompt, too:
-
-```
-ruby-1.8.7-p334 in spark/ on master with history: ▂▅▇▂
-›
-```
 
 ## wicked cool usage
 
@@ -70,10 +59,4 @@ Sounds like a wiki is a great place to collect all of your
 
 ## ▇▁ ⟦⟧ ▇▁
 
-This is a [@holman][holman] joint.
-
-[dotfiles]: https://github.com/holman/dotfiles
-[brew]:     https://github.com/mxcl/homebrew
-[bin]:      https://github.com/holman/spark/blob/master/spark
 [wiki]:     https://github.com/holman/spark/wiki/Wicked-Cool-Usage
-[holman]:   https://twitter.com/holman
